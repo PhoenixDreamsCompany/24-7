@@ -1,64 +1,119 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Alf" tvg-logo="" group-title="24/7",Alf
-http://roedor.xyz/REGIO2O2O/mc.php?c=278&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Animaniacs" tvg-logo="" group-title="24/7",Animaniacs
-http://roedor.xyz/REGIO2O2O/mc.php?c=279&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bob Sponja" tvg-logo="" group-title="24/7",Bob Sponja
-http://roedor.xyz/REGIO2O2O/mc.php?c=280&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas" tvg-logo="" group-title="24/7",Cantinflas
-http://roedor.xyz/REGIO2O2O/mc.php?c=281&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito" tvg-logo="" group-title="24/7",Chespirito
-http://roedor.xyz/REGIO2O2O/mc.php?c=282&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Correcaminos" tvg-logo="" group-title="24/7",Correcaminos
-http://roedor.xyz/REGIO2O2O/mc.php?c=283&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dr House" tvg-logo="" group-title="24/7",Dr House
-http://roedor.xyz/REGIO2O2O/mc.php?c=284&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball GT" tvg-logo="" group-title="24/7",Dragon Ball GT
-http://roedor.xyz/REGIO2O2O/mc.php?c=285&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball" tvg-logo="" group-title="24/7",Dragon Ball
-http://roedor.xyz/REGIO2O2O/mc.php?c=286&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball SUPER" tvg-logo="" group-title="24/7",Dragon Ball SUPER
-http://roedor.xyz/REGIO2O2O/mc.php?c=287&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Z" tvg-logo="" group-title="24/7",Dragon Ball Z
-http://roedor.xyz/REGIO2O2O/mc.php?c=288&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | El chavo del 8" tvg-logo="" group-title="24/7",El chavo del 8
-http://roedor.xyz/REGIO2O2O/mc.php?c=289&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="" group-title="24/7",Futurama
-http://roedor.xyz/REGIO2O2O/mc.php?c=291&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Pantera Rosa" tvg-logo="" group-title="24/7",La Pantera Rosa
-http://roedor.xyz/REGIO2O2O/mc.php?c=292&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Teoria Del Big Bang" tvg-logo="" group-title="24/7",La Teoria Del Big Bang
-http://roedor.xyz/REGIO2O2O/mc.php?c=293&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los 3 chiflados" tvg-logo="" group-title="24/7",Los 3 chiflados
-http://roedor.xyz/REGIO2O2O/mc.php?c=295&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Caballeros del Zodiaco" tvg-logo="" group-title="24/7",Los Caballeros del Zodiaco
-http://roedor.xyz/REGIO2O2O/mc.php?c=297&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson 2" tvg-logo="" group-title="24/7",Los Simpson 2
-http://roedor.xyz/REGIO2O2O/mc.php?c=299&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson" tvg-logo="" group-title="24/7",Los Simpson
-http://roedor.xyz/REGIO2O2O/mc.php?c=300&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Malcolm El De En Medio" tvg-logo="" group-title="24/7",Malcolm El De En Medio
-http://roedor.xyz/REGIO2O2O/mc.php?c=301&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Mr. Bean" tvg-logo="" group-title="24/7",Mr. Bean
-http://roedor.xyz/REGIO2O2O/mc.php?c=302&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Naruto" tvg-logo="" group-title="24/7",Naruto
-http://roedor.xyz/REGIO2O2O/mc.php?c=303&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Padre De Familia" tvg-logo="" group-title="24/7",Padre De Familia
-http://roedor.xyz/REGIO2O2O/mc.php?c=304&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peliculas 2018" tvg-logo="" group-title="24/7",Peliculas 2018
-http://roedor.xyz/REGIO2O2O/mc.php?c=305&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="" group-title="24/7",Pokemon
-http://roedor.xyz/REGIO2O2O/mc.php?c=308&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Smallville" tvg-logo="" group-title="24/7",Smallville
-http://roedor.xyz/REGIO2O2O/mc.php?c=309&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | South Park" tvg-logo="" group-title="24/7",South Park
-http://roedor.xyz/REGIO2O2O/mc.php?c=310&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Thundercats" tvg-logo="" group-title="24/7",Thundercats
-http://roedor.xyz/REGIO2O2O/mc.php?c=311&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Un Agente De Familia" tvg-logo="" group-title="24/7",Un Agente De Familia
-http://roedor.xyz/REGIO2O2O/mc.php?c=312&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Un Show MAS" tvg-logo="" group-title="24/7",Un Show MAS
-http://roedor.xyz/REGIO2O2O/mc.php?c=313&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | X-men" tvg-logo="" group-title="24/7",X-men
-http://roedor.xyz/REGIO2O2O/mc.php?c=314&f=.m3u8
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/386|User-Agent=megaplayer
+#EXTINF:-1,Lazy Town
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/235|User-Agent=megaplayer
+#EXTINF:-1,Barnie y sus amigos
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/236|User-Agent=megaplayer
+#EXTINF:-1,Dora la exploradora
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/237|User-Agent=megaplayer
+#EXTINF:-1,PJ Masks
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/238|User-Agent=megaplayer
+#EXTINF:-1,caillou
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/239|User-Agent=megaplayer
+#EXTINF:-1,Jorge el Curioso
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/240|User-Agent=megaplayer
+#EXTINF:-1,peppa pig
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/241|User-Agent=megaplayer
+#EXTINF:-1,happy tree friends
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/242|User-Agent=megaplayer
+#EXTINF:-1,Los picapiedras
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/243|User-Agent=megaplayer
+#EXTINF:-1,Le temes a la oscuridad
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/244|User-Agent=megaplayer
+#EXTINF:-1,Pantera Rosa 80s
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/245|User-Agent=megaplayer
+#EXTINF:-1,Correcaminos
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/246|User-Agent=megaplayer
+#EXTINF:-1,Power Rangers
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/247|User-Agent=megaplayer
+#EXTINF:-1,Cuentos Hermanos Grimm
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/248|User-Agent=megaplayer
+#EXTINF:-1,Robotech
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/249|User-Agent=megaplayer
+#EXTINF:-1,Estrenos 2018
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/250|User-Agent=megaplayer
+#EXTINF:-1,El Chapulin Colorado
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/251|User-Agent=megaplayer
+#EXTINF:-1,Death Note
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/252|User-Agent=megaplayer
+#EXTINF:-1,CSI Miami
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/253|User-Agent=megaplayer
+#EXTINF:-1,Alf
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/254|User-Agent=megaplayer
+#EXTINF:-1,X-men 90s
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/255|User-Agent=megaplayer
+#EXTINF:-1,Vete a la Versh
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/256|User-Agent=megaplayer
+#EXTINF:-1,The Walking Dead
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/257|User-Agent=megaplayer
+#EXTINF:-1,Super campeones
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/258|User-Agent=megaplayer
+#EXTINF:-1,strangerthings
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/259|User-Agent=megaplayer
+#EXTINF:-1,Spiderman 80s
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/260|User-Agent=megaplayer
+#EXTINF:-1,Sounth Park
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/261|User-Agent=megaplayer
+#EXTINF:-1,Smallville
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/262|User-Agent=megaplayer
+#EXTINF:-1,Shera
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/263|User-Agent=megaplayer
+#EXTINF:-1,Señor de los cielos
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/264|User-Agent=megaplayer
+#EXTINF:-1,Sailormoon
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/265|User-Agent=megaplayer
+#EXTINF:-1,Pokemon
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/266|User-Agent=megaplayer
+#EXTINF:-1,Pinky y Cerebro
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/267|User-Agent=megaplayer
+#EXTINF:-1,Peliculas Terror
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/268|User-Agent=megaplayer
+#EXTINF:-1,Pablo Escobar
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/269|User-Agent=megaplayer
+#EXTINF:-1,Naruto
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/270|User-Agent=megaplayer
+#EXTINF:-1,Mazinger Z
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/271|User-Agent=megaplayer
+#EXTINF:-1,Malcolm el de enmedio
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/272|User-Agent=megaplayer
+#EXTINF:-1,Luis Miguel
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/273|User-Agent=megaplayer
+#EXTINF:-1,Lucha Libre AAA
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/274|User-Agent=megaplayer
+#EXTINF:-1,Los Thundercats
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/275|User-Agent=megaplayer
+#EXTINF:-1,Los Simpsons
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/276|User-Agent=megaplayer
+#EXTINF:-1,La Rosa de Guadalupe
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/277|User-Agent=megaplayer
+#EXTINF:-1,Heman
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/278|User-Agent=megaplayer
+#EXTINF:-1,Game Of Throne
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/279|User-Agent=megaplayer
+#EXTINF:-1,Futurama
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/280|User-Agent=megaplayer
+#EXTINF:-1,Dragon Ball Z
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/281|User-Agent=megaplayer
+#EXTINF:-1,Dragon Ball Super
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/282|User-Agent=megaplayer
+#EXTINF:-1,Dragon Ball GT
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/283|User-Agent=megaplayer
+#EXTINF:-1,Dragon ball
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/284|User-Agent=megaplayer
+#EXTINF:-1,Dinosaurios
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/285|User-Agent=megaplayer
+#EXTINF:-1,Coraje el perro cobarde
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/286|User-Agent=megaplayer
+#EXTINF:-1,Años Maravillosos
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/287|User-Agent=megaplayer
+#EXTINF:-1,La casa de papel
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/288|User-Agent=megaplayer
+#EXTINF:-1,El chema
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/289|User-Agent=megaplayer
+#EXTINF:-1,El chavo
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/290|User-Agent=megaplayer
+#EXTINF:-1,caballerosdel zodiaco
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/291|User-Agent=megaplayer
+#EXTINF:-1,Breaking bad
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/292|User-Agent=megaplayer
+#EXTINF:-1,Bob Esponja 24/7
