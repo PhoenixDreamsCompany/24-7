@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7  CAILLOU" tvg-logo="" group-title="Lista TV2",24/7  CAILLOU
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CAILLOU" tvg-logo="" group-title="Lista TV2",24/7 CAILLOU
 http://ipeteve.com/php/SR_REGIO_281119/regiotv.php?c=3&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7  CORAJE EL PERRO COBARDE" tvg-logo="" group-title="Lista TV2",24/7  CORAJE EL PERRO COBARDE
 http://ipeteve.com/php/SR_REGIO_281119/regiotv.php?c=4&f=.m3u8
